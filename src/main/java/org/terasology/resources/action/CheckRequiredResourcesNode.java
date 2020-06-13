@@ -30,7 +30,7 @@ import org.terasology.logic.behavior.core.BehaviorState;
 import org.terasology.logic.inventory.InventoryManager;
 import org.terasology.math.Region3i;
 import org.terasology.registry.In;
-import org.terasology.rendering.nui.properties.TextField;
+import org.terasology.nui.properties.TextField;
 import org.terasology.resources.system.BuildingResourceSystem;
 import org.terasology.resources.system.ResourceSystem;
 import org.terasology.spawning.OreonSpawnComponent;
